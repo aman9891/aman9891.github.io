@@ -106,10 +106,15 @@ h2.head-selected{
     height: 60px;
 }
 
-header.masthead {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+header {
+  padding-top: 0;
+  padding-bottom: 0;
 }
+
+/*header.masthead {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}*/
 
 header.masthead h1 {
   font-size: 3rem;
