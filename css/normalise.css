@@ -470,8 +470,10 @@ footer{
 }
 
 .bg-primary {
-  background-color: #add8e6 !important;
+  /*background-color: #add8e6 !important;*/
+  background-color: #f4e7cf !important;
 }
+
 .bg-secondary {
   background-color: #adbce6 !important;
 }
