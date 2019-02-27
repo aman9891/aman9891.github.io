@@ -6,6 +6,10 @@ p {
   text-align: justify;
 }
 
+.underline-button {
+  color: #725f5f;
+}
+
 h1,h2,h3,
 h4,
 h5,
@@ -103,8 +107,8 @@ h2.head-selected{
 }
 
 header.masthead {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 header.masthead h1 {
@@ -340,7 +344,7 @@ i.fa{
   /* display: inline-block; */
 }
 
-.carousel-elem {
+.carousel-elem{
   display: inline-block;
   width: 500px;
   height: 375px;
@@ -349,19 +353,14 @@ i.fa{
   padding: 5%;*/
 }
 
-.carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    width: 100%;
-    height: 100%;
-}
-
-.carousel-elem > a {
+.carousel-elem > a{
   width: 100%;
   height: 100%;
   padding: 0px;
   margin: 0px;
 }
 
-.carousel-elem > a > img {
+.carousel-elem > a > img{
   width: 100%;
   height: 100%;
 }
