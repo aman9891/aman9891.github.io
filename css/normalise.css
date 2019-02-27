@@ -345,8 +345,8 @@ i.fa{
   width: 500px;
   height: 375px;
   background-color: white;
-  margin: 5%;
-  padding: 5%;
+  /*margin: 5%;
+  padding: 5%;*/
 }
 
 .carousel-elem > a{
