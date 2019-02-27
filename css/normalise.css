@@ -115,6 +115,7 @@ h2.head-selected{
 header.masthead h1 {
   font-size: 3rem;
   line-height: 3rem;
+  color: #395579;
 }
 
 header.masthead h2 {
@@ -165,11 +166,11 @@ button > div > h2 {
 
 /*About Me Seciont*/
 
-.aboutme{
+.aboutme {
     background-color: #ade6d8;
 }
 
-.aboutme, .mymusic-container{
+.aboutme, .mymusic-container {
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 10%;
@@ -177,17 +178,12 @@ button > div > h2 {
   color: #fff;
 }
 
-.aboutmesection{
+.aboutmesection {
     padding-bottom: 15px;
     padding-top: 15px;
-    color: #fff !important;
+    /*color: #fff !important;*/
+    color: #3d3434 !important;
 }
-
-/*Resume Section*/
-
-/* .portfolio {
-    margin-bottom: -15px;
-} */
 
 span.timePeriod{
     font-style: italic;
@@ -280,7 +276,8 @@ span.timePeriod{
 }
 
 .contact-text{
-  color: #ffffff;
+  /*color: #ffffff;*/
+  color: #3d3434;
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 10%;
