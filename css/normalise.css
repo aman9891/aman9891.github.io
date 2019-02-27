@@ -167,7 +167,7 @@ button > div > h2 {
 /*About Me Seciont*/
 
 .aboutme {
-    background-color: #ade6d8;
+    background-color: #def7b5;
 }
 
 .aboutme, .mymusic-container {
@@ -267,7 +267,7 @@ span.timePeriod{
 /*contact*/
 
 .contacts-container, .contacts{
-  background-color:#f2e3c6;
+  background-color: #ade6d8;
 }
 
 .contacts{
@@ -302,7 +302,7 @@ i.fa{
 
 .link{
   border-radius: 50%;
-  background-color:#f2e3c6;
+  background-color: #ade6d8;
 }
 
 .link:hover{
