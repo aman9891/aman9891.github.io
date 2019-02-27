@@ -314,6 +314,10 @@ i.fa{
 
 
 /*Music section*/
+.mymusic-container {
+  background-color: #e4e88e;
+}
+
 .music-button > h2{
   font-size: 40px;
 }
