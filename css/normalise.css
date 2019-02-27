@@ -340,7 +340,7 @@ i.fa{
   /* display: inline-block; */
 }
 
-.carousel-elem{
+.carousel-elem {
   display: inline-block;
   width: 500px;
   height: 375px;
@@ -349,14 +349,19 @@ i.fa{
   padding: 5%;*/
 }
 
-.carousel-elem > a{
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-elem > a {
   width: 100%;
   height: 100%;
   padding: 0px;
   margin: 0px;
 }
 
-.carousel-elem > a > img{
+.carousel-elem > a > img {
   width: 100%;
   height: 100%;
 }
