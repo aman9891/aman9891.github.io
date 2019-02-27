@@ -25,7 +25,7 @@ h6 {
 /*Separator Graphics*/
 
 hr.star-light{
-    max-width: 15rem;
+    max-width: 35rem;
     padding: 0;
     text-align: center;
     border: none;
@@ -39,7 +39,8 @@ hr.star-light{
 /* Header opts*/
 
 h2.section-toggle{
-  color: #ffffff;
+  /*color: #ffffff;*/
+  color: #718ca7;
   cursor: pointer !important;
 }
 
